@@ -1,0 +1,7 @@
+{
+  "name": "Game Grand Prix",
+  "description": "A high-energy, 2-player educational game about Informatics. Players compete on a futuristic racetrack by answering quiz questions simultaneously.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
