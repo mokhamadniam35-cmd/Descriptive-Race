@@ -1,3 +1,8 @@
-export function saveScore(name: string, score: number) {
-  console.log("Score saved:", name, score);
+import { Question } from "../types";
+
+export async function fetchSpreadsheetQuestions(
+  spreadsheetId: string
+): Promise<Question[]> {
+  // dummy: belum konek spreadsheet
+  return [];
 }
